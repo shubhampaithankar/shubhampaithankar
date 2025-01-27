@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Intern at @guestara.<br>👯 I’m looking to collaborate on stuff that makes our lives easy.<br>🤝 I’m looking for help with referrals for full-time.<br>🌱 I’m currently learning python, linux.<br>💬 Ask me about anything
+🔭 I’m currently working as a Full-Stack Engineer at @guestara.<br>👯 I’m looking to collaborate on stuff that makes our lives easy.<br>🤝 I’m looking for help with referrals for full-time.<br>🌱 I’m currently learning python, linux.<br>💬 Ask me about anything
 
 
 # 💻 Tech Stack:
