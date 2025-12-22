@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Engineer at @guestara.<br>👯 I’m looking to collaborate on stuff that makes our lives easy.<br>🤝 I’m looking for help with referrals for full-time.<br>🌱 I’m currently learning python, linux and anything that involves a HomeLab.<br>💬 Ask me about anything
+🔭 I’m currently working as a Full-Stack Engineer at @Guestara.<br>🤝 I’m looking for help with referrals for full-time remote roles based out of South East Asia.<br>🌱 I’m currently learning Python for automation, JAVA for Minecraft mods, C++ for VST Development and DSA and, Linux for a secure HomeLab setup.<br>💬 Ask me about anything ;)
 
 
 # 💻 Tech Stack:
