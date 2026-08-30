@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Engineer at @Guestara.<br>🤝 I’m looking for help with referrals for full-time remote roles based out of South East Asia.<br>💬 Ask me about anything ;)
+🔭 I’m currently working as a Full-Stack Engineer at @Guestara.<br>🤝 I’m looking for help with referrals for full-time on-site / remote roles based out of Singapore.<br>💬 Ask me about anything ;)
 
 
 # 💻 Tech Stack:
