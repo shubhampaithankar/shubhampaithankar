@@ -1,18 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working as a Full-Stack Engineer at @Guestara.<br>🤝 I’m looking for help with referrals for full-time on-site / remote roles based out of Singapore.<br>💬 Ask me about anything ;)
+<div align="center">
 
+<img alt="" src="assets/hero.svg" width="100%"><br>
+<picture><img alt="Shubham Paithankar" src="https://readme-typing-svg.demolab.com?font=Monoton&size=44&letterSpacing=4px&duration=2200&repeat=false&color=FF1E8E&center=true&vCenter=true&width=850&height=72&lines=SHUBHAM+PAITHANKAR"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Audiowide&size=18&letterSpacing=1px&duration=2800&pause=1500&color=00E5FF&center=true&vCenter=true&width=760&height=30&lines=FULL-STACK+ENGINEER;CURRENTLY+AT+GUESTARA;OPEN+TO+ROLES%3A+SINGAPORE+%2F+WORLDWIDE"><img alt="Full-stack engineer. Now at Guestara. Open to roles in Singapore or worldwide." src="https://readme-typing-svg.demolab.com?font=Audiowide&size=18&letterSpacing=1px&duration=2800&pause=1500&color=7B2FF7&center=true&vCenter=true&width=760&height=30&lines=FULL-STACK+ENGINEER;CURRENTLY+AT+GUESTARA;OPEN+TO+ROLES%3A+SINGAPORE+%2F+WORLDWIDE"></picture><br>
+<img alt="Open to roles, Singapore or worldwide" src="https://img.shields.io/badge/open_to_roles-Singapore_%2F_worldwide-22C55E?style=flat-square&labelColor=1A0B2E"> <img alt="Based in Pune, India" src="https://img.shields.io/badge/based_in-Pune%2C_India-00E5FF?style=flat-square&labelColor=1A0B2E"><br>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:7B2FF7,33:7B2FF7,34:FF1E8E,66:FF1E8E,67:FF8C42,100:FF8C42">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhampaithankar&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhampaithankar&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampaithankar&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I build and ship production web apps end to end: TypeScript, Node, React, Next.js, and the CI/CD between them. Most of that now ships through agentic tooling (Claude Code, MCP servers), and getting a team working that way is part of my job.
 
----
-[![](https://visitcount.itsvg.in/api?id=shubhampaithankar&icon=5&color=6)](https://visitcount.itsvg.in)
+### Currently
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Full-stack engineer at Guestara (React, Next.js, Node, MongoDB), since October 2024.
+
+- Unified guest inbox across Facebook, Instagram, and LINE: 80% more guest interactions, 50% faster responses
+- Two-way event escalation: every guest event reaches staff, every missed staff action reaches an owner
+- UIDAI and OCR identity verification, verification time down 60%
+- Rebuilt the guest-messaging (journey) module: killed missed and duplicate sends, scheduled campaigns reliable at scale
+
+### Flagship
+
+**[PlayStop](https://github.com/shubhampaithankar/PlayStop)** <a href="https://playstop.pages.dev"><img alt="Live at playstop.pages.dev" src="https://img.shields.io/badge/live-playstop.pages.dev-22C55E?style=flat-square&labelColor=1A0B2E"></a>
+
+Self-serve slot booking for a 15-station gaming lounge: live station grid, 30-minute slots, one-time-code check-in, instant confirmations. pnpm monorepo (React/Vite web, Node/TypeScript API, shared engine package), MongoDB Atlas, Upstash Redis, GitHub Actions CI, Cloudflare Pages + Render.
+
+### Projects
+
+- **[Ampersand](https://github.com/shubhampaithankar/ampersand-discord-bot)**: Discord music bot on Bun + discord.js v14 with a Lavalink pipeline, multi-stage Alpine Docker build, 99.9% uptime
+- **[Pokemon Trainer Hub](https://github.com/shubhampaithankar/pth-react-app)**: realtime React 18 + socket.io app over an Express/Mongoose API
+- **SimpleGroups** (Java): Paper/Spigot Minecraft plugin for in-game player groups, with public and private modes, group-only chat channels, a live HUD sidebar, and a developer API for other plugins
+
+### Stack
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,express,nestjs,mongodb,redis,docker,githubactions,cloudflare,linux,bun,pnpm,python&perline=8&theme=dark"><img alt="TypeScript, Node.js, React, Next.js, Express, NestJS, MongoDB, Redis, Docker, GitHub Actions, Cloudflare, Linux, Bun, pnpm, Python" src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,express,nestjs,mongodb,redis,docker,githubactions,cloudflare,linux,bun,pnpm,python&perline=8&theme=light"></picture>
+
+<a href="https://shubhampaithankar.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-shubhampaithankar.github.io-FF1E8E?style=flat-square&labelColor=1A0B2E"></a> <a href="https://linkedin.com/in/shubham-paithankar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubham--paithankar-00E5FF?style=flat-square&labelColor=1A0B2E"></a>
+
+</div>

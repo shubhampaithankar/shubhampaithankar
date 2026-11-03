@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Vice City synthwave banner">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#140A24"/>
+      <stop offset="0.38" stop-color="#3A1766"/>
+      <stop offset="0.62" stop-color="#7B2FF7"/>
+      <stop offset="0.82" stop-color="#FF1E8E"/>
+      <stop offset="1" stop-color="#FF8C42"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE56B"/>
+      <stop offset="0.45" stop-color="#FF7AC6"/>
+      <stop offset="1" stop-color="#FF1E8E"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A0B2E"/>
+      <stop offset="1" stop-color="#0B0614"/>
+    </linearGradient>
+    <mask id="scan">
+      <rect x="440" y="60" width="320" height="150" fill="#fff"/>
+      <rect x="440" y="150" width="320" height="3" fill="#000"/>
+      <rect x="440" y="160" width="320" height="4" fill="#000"/>
+      <rect x="440" y="171" width="320" height="5" fill="#000"/>
+      <rect x="440" y="183" width="320" height="6" fill="#000"/>
+      <rect x="440" y="196" width="320" height="8" fill="#000"/>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#sky)"/>
+  <circle cx="600" cy="196" r="92" fill="url(#sun)" mask="url(#scan)"/>
+  <rect y="200" width="1200" height="60" fill="url(#ground)"/>
+
+  <g stroke="#00E5FF" stroke-width="1.4" fill="none" opacity="0.85">
+    <line x1="600" y1="200" x2="-180" y2="260"/>
+    <line x1="600" y1="200" x2="90" y2="260"/>
+    <line x1="600" y1="200" x2="300" y2="260"/>
+    <line x1="600" y1="200" x2="450" y2="260"/>
+    <line x1="600" y1="200" x2="600" y2="260"/>
+    <line x1="600" y1="200" x2="750" y2="260"/>
+    <line x1="600" y1="200" x2="900" y2="260"/>
+    <line x1="600" y1="200" x2="1110" y2="260"/>
+    <line x1="600" y1="200" x2="1380" y2="260"/>
+    <line x1="0" y1="214" x2="1200" y2="214" opacity="0.5"/>
+    <line x1="0" y1="230" x2="1200" y2="230" opacity="0.7"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/>
+  </g>
+
+  <rect y="198" width="1200" height="3" fill="#00E5FF"/>
+
+  <g fill="#0B0614">
+    <rect x="116" y="150" width="7" height="60"/>
+    <path d="M119 150 q-40 -8 -60 10 q34 -4 60 2 q-30 -18 -56 -30 q32 6 56 22 q-6 -34 2 -58 q10 24 8 56 q22 -28 52 -36 q-24 24 -52 42 q40 -6 66 8 q-38 2 -66 12 z"/>
+    <rect x="1078" y="150" width="7" height="60"/>
+    <path d="M1081 150 q40 -8 60 10 q-34 -4 -60 2 q30 -18 56 -30 q-32 6 -56 22 q6 -34 -2 -58 q-10 24 -8 56 q-22 -28 -52 -36 q24 24 52 42 q-40 -6 -66 8 q38 2 66 12 z"/>
+  </g>
+</svg>
